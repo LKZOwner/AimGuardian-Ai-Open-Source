@@ -212,7 +212,7 @@ This project is for educational and research purposes only. Users are responsibl
 
 For questions, suggestions, or collaboration:
 - GitHub: [@LKZOwner](https://github.com/LKZOwner)
-- Email: [Your Email]
+- Email: [linn72827@gmail.com]
 
 ## 📚 Citation
 
