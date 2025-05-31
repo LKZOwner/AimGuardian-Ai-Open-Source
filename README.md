@@ -222,7 +222,7 @@ If you use this project in your research, please cite:
   author = {LKZOwner},
   title = {AimGuardian AI: Advanced Aim Detection System},
   year = {2024},
-  url = {https://github.com/LKZOwner/AimGuardian-AI}
+  url = {https://github.com/LKZOwner/AimGuardian-AI-Open-Source}
 }
 ```
 
