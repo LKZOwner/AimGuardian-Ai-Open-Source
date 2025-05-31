@@ -57,7 +57,7 @@ an individual is officially representing the community in public spaces.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-[Your Email].
+[linn72827@gmail.com].
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
@@ -130,7 +130,7 @@ https://www.contributor-covenant.org/translations.
 
 For questions or concerns about this Code of Conduct, please contact:
 - Project Maintainer: [LKZOwner](https://github.com/LKZOwner)
-- Email: [Your Email]
+- Email: [linn72827@gmail.com]
 
 ## License
 
